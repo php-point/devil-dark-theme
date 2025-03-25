@@ -1,0 +1,23 @@
+{
+  "name": "devil-dark-theme",
+  "displayName": "Devil (Dark theme)",
+  "publisher": "phppoint",
+  "icon": "devil.png",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "deviltheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deviltheme-color-theme.json"
+      }
+    ]
+  }
+}
