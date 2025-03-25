@@ -7,9 +7,9 @@ Amazing dark theme with colors.
 * beautiful theme design.
 
 ## Screenshots
- [!screenshot](screenshots/sct1.png)
- [!screenshot](screenshots/sct2.png)
- [!screenshot](screenshots/sct3.png)
+ ![Screenshot](screenshots/sct1.png)
+ ![Screenshot](screenshots/sct2.png)
+ ![Screenshot](screenshots/sct3.png)
 
 
 ## Release version
