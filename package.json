@@ -1,27 +1,27 @@
 {
-  "name": "devil-dark-theme",
-  "displayName": "Devil (Dark theme)",
-  "publisher": "phppoint",
-  "icon": "devil.png",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/php-point/devil-dark-theme.git"
-  },
-  "description": "Best dark theme with awesome color combination.",
-  "version": "1.0.1",
-  "engines": {
-    "vscode": "^1.98.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "deviltheme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/deviltheme-color-theme.json"
-      }
-    ]
-  }
+	"name": "devil-dark-theme",
+	"displayName": "Devil Pro Ultimate (Dark)",
+	"publisher": "phppoint",
+	"icon": "devil.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/php-point/devil-dark-theme.git"
+	},
+	"description": "Ultimate dark theme with fiery devil palette, full UI/syntax coverage, high contrast, accessible.",
+	"version": "1.1.2",
+	"engines": {
+		"vscode": "^1.98.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Devil Pro Ultimate",
+				"uiTheme": "vs-dark",
+				"path": "./themes/deviltheme-color-theme.json"
+			}
+		]
+	}
 }
